@@ -1,0 +1,1 @@
+web: python main.py --flexx-hostname=0.0.0.0
