@@ -9,23 +9,23 @@ This is a web application that convertes between different Units, Currency, and 
 
 **Requests**: Since this application utilizes API requests. Run the following command to install the packages:
 ```
-$ pip3 install requests
+pip3 install requests
 ```
 
 **Flexx**: This application heavily relies on Python Flexx Module. Run the Following command to install:
 ```
-$ pip install flexx
+pip install flexx
 ```
 
 **Repo**: Clone the Repo into your local directory by running
 ```
-$ git clone https://github.com/haytham918/ConverterApp.git
+git clone https://github.com/haytham918/ConverterApp.git
 ```
 ## Run
 After you have set up the repo in your local directory. Run the following commands to try the app:
 ```
-$ cd ConverterApp
-$ python3 main.py
+cd ConverterApp
+python3 main.py
 ```
 It should automatically direct you to a local page on your default browser. You can also copy the link provided into a browser you like. 
 
