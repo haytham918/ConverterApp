@@ -32,3 +32,6 @@ It should automatically direct you to a local page on your default browser. You 
 You should see a page with text ```Converter``` at the top-left corner of the page. Click it and you shall see 3 big sections: Units, Currency, and Time.
 
 You can choose your desired unit/currency/time and type in your number to convert.
+
+## Contact
+Yunxuan "Haytham" Tang — [yunxuant@umich.edu](mailto:yunxuant@umich.edu)
