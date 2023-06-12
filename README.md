@@ -3,7 +3,7 @@
 ## Description
 This is a web application that convertes between different Units, Currency, and Time-Zone. This application is built based on Python Flexx Module.
 
---- Haytham Tang
+—— Haytham Tang
 ## Set-Up
 **Python**: Make sure you have [Python3](https://www.python.org/downloads/) installed.
 
@@ -34,4 +34,4 @@ You should see a page with text ```Converter``` at the top-left corner of the pa
 You can choose your desired unit/currency/time and type in your number to convert.
 
 ## Contact
-Yunxuan "Haytham" Tang — [yunxuant@umich.edu](mailto:yunxuant@umich.edu)
+Yunxuan "Haytham" Tang —— [yunxuant@umich.edu](mailto:yunxuant@umich.edu)
